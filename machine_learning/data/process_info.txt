@@ -1,0 +1,6 @@
+Clinical data only used
+
+17 patients age <40 set age to 40
+6 patients age >100 set age to 100
+
+Clinical-only data set is for patients with 30 min left to thrombolyse after scan

@@ -1,0 +1,21 @@
+Forest:
+
+Area under curve mean = 0.889
+Area under curve stdev = 0.022
+
+LR:
+Area under curve mean = 0.882
+Area under curve stdev = 0.014
+
+SVM linear:
+Area under curve mean = 0.880
+Area under curve stdev = 0.014
+
+SVM rbf:
+Area under curve mean = 0.880
+Area under curve stdev = 0.019
+
+nn:
+Area under curve mean = 0.882
+Area under curve stdev = 0.016
+
